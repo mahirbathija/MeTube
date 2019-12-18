@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About
+
+This project recreates the experience of Youtube. It allows a user to search for Youtube videos and watch them.
+
 ## Available Scripts
 
 In the project directory, you can run:
